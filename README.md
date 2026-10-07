@@ -1,4 +1,10 @@
+
+
 # PlantBuddy: Tackling Agricultural Challenges with AIML  
+
+## Dataset
+
+The dataset used in this project is available here: [Download Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
 
 ## **Problem Statement** 
 - 🌾 **Delayed & Inaccurate Disease Detection**: Adversely affects crop health and yield.  
